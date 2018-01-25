@@ -1,0 +1,50 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#text {
+  font-size: 200%;
+
+  resize: none;
+  position: fixed;
+  border: none;
+  outline: none;
+
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+
+  width: 50%;
+  height: 95%;
+
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+#md {
+  font-size: 200%;
+
+  resize: none;
+  position: fixed;
+  border: none;
+  outline: none;
+
+  top:0;
+  left:50%;
+  right:0;
+  bottom:0;
+
+  width: 50%;
+  height: 95%;
+
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+}

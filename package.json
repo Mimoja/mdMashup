@@ -1,0 +1,24 @@
+{
+  "name": "mdmashup",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "browserify-middleware": "^8.0.0",
+    "bufferutil": "^3.0.3",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "markdown-it": "^8.4.0",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5",
+    "sharedb": "^1.0.0-beta.8",
+    "sharedb-string-binding": "^1.0.0",
+    "websocket-json-stream": "0.0.3",
+    "ws": "^4.0.0"
+  }
+}

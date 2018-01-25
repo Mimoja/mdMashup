@@ -37,6 +37,8 @@ jspm_packages
 # Operating System Files
 # =========================
 
+.idea
+
 # OSX
 # =========================
 
